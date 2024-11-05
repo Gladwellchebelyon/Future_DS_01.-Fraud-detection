@@ -1,5 +1,6 @@
 # FutureIntern_DS_01
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/2713d922-7a13-4a37-98c9-4f6284c3e43d)
+
 
 # Credit Card Fraud Detection
 
