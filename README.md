@@ -7,7 +7,7 @@
 
 # Overview
 
-This project aims to build a machine learning model to detect fraudulent credit card transactions, using a dataset of anonymized transaction data. Fraud detection is critical for financial institutions to protect users and mitigate financial loss due to unauthorized transactions. This project focuses on accurately identifying fraudulent transactions despite the highly imbalanced nature of the dataset.
+This project aims to build a machine learning model to detect fraudulent credit card transactions, using creditcard dataset from kaggle. Fraud detection is critical for financial institutions to protect users and mitigate financial loss due to unauthorized transactions. This project focuses on accurately identifying fraudulent transactions despite the highly imbalanced nature of the dataset.
 
 
 # Table of Contents
